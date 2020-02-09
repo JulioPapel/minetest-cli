@@ -1,4 +1,5 @@
 require "minetest/cli/version"
+require "minetest/command_interface"
 
 module Minetest
   module Cli

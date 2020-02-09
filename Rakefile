@@ -23,6 +23,21 @@ task :changelog do
   Rake::Task['changelog_gen'].invoke
   helper = Minetest::Helpers::FileHelper.new
   helper.remove_lines("CHANGELOG.md", 9, 1)
-  helper.append_lines("CHANGELOG.md", "Last updated by: Júlio Papel")
+  helper.append_lines("CHANGELOG.md", "Copyright © 2020 Júlio Papel")
+end
+
+task :console do
+  require 'irb'
+  require 'irb/completion'
+  require 'minetest/cli' # You know what to do.
+
+  def reload!
+    # Change 'my_gem' here too:
+    files = $LOADED_FEATURES.select { |feat| feat =~ /\/my_gem\// }
+    files.each { |file| load file }
+  end
+
+  ARGV.clear
+  IRB.start
 end
 

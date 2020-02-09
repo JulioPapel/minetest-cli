@@ -13,12 +13,40 @@ gem 'minetest-cli'
 ```
 
 And then execute:
-
+```sh
     $ bundle install
-
+```
 Or install it yourself as:
-
+```sh
     $ gem install minetest-cli
+```   
+## Instaling Jupyter-Lab Notebooks
+### Installation for JRuby
+You can use Java classes in your IRuby notebook.
+
+JRuby version >= 9.0.4.0
+cztop gem
+iruby gem
+After installation, make sure that your env is set up to use jruby.
+```sh
+    $ env ruby -v
+```
+
+If you use RVM, it is enough to switch the current version to jruby.
+```sh
+port install libtool autoconf automake autogen
+gem install ffi-rzmq
+gem install iruby
+```
+
+If you have already used IRuby with a different version, you need to generate a new kernel:
+```sh
+    $ iruby register --force 
+```
+```sh
+    $ jupyter lab
+```
+the tutorial file is called tutorial.ipynb
 
 ## Usage
 
