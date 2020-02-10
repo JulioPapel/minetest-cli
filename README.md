@@ -24,9 +24,9 @@ And then execute:
 ```sh
 $ bundle install
 ```
-Or install it yourself inside deas:
+Or install it yourself inside de minetest-cli folder as:
 ```sh
-$ gem install https://github.com/JulioPapel/minetest-cli/blob/master/minetest-cli-0.2.0.gem
+$ gem install minetest-cli-0.2.0.gem
 ```   
 
 ## To Install Jupyter-Lab Notebooks
