@@ -883,11 +883,12 @@ $ gem build minetest-cli.gemspec
 ```
 
 Este comando constroi a gem e o nome do ficheiro inclui o número da versão. minetest-cli-0.2.0. E podes ignorar os alertas.
-
+```
 Successfully built RubyGem
   Name: minetest-cli
   Version: 0.2.0
   File: minetest-cli-0.2.0.gem
+```
 
 E assim está concluído este exemplo de uma aplicação de linha de comandos em Ruby. Espero que tenham gostado e que a partir deste exemplo possam criar novas aplicações CLI para gerir, configurar, modificar ou automatizar tarefas nos vossos computadores e servidores. Muitos exemplos de manipulação e edição de ficheiros, para um ou outro Sistema Operativo podem facilmente ser encontrados na web. 
 
