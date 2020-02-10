@@ -1,5 +1,9 @@
 # Minetest::Cli
 
+(https://github.com/JulioPapel/minetest-cli)
+
+![Tutorial](tutorial.md)
+
 Welcome to minetest-cli gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. 
 
 Put your Ruby code in the commands section of this tutorial:   
@@ -22,10 +26,10 @@ $ bundle install
 ```
 Or install it yourself inside deas:
 ```sh
-$ gem install minetest-cli
+$ gem install https://github.com/JulioPapel/minetest-cli/blob/master/minetest-cli-0.2.0.gem
 ```   
 
-## Instaling Jupyter-Lab Notebooks
+## To Install Jupyter-Lab Notebooks
 We use Jupyter notebooks for the tutorial, (currently only in Portuguese) in the file named `tutorial.ipynb`
 If you do not want to install Jupyter the tutorial is also available in PDF in the file names `tutorial.pdf`
 
