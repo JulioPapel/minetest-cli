@@ -2,7 +2,7 @@
 
 (https://github.com/JulioPapel/minetest-cli)
 
-[Tutorial](tutorial.md)
+[The creation of this gem tutorial in PT ](tutorial.md)
 
 Welcome to minetest-cli gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. 
 
