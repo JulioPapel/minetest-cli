@@ -20,7 +20,7 @@ And then execute:
 ```sh
 $ bundle install
 ```
-Or install it yourself as:
+Or install it yourself inside deas:
 ```sh
 $ gem install minetest-cli
 ```   
@@ -44,7 +44,7 @@ If you use RVM, it is enough to switch the current version to jruby.
 ```sh
 $ port install libtool autoconf automake autogen
 $ brew install pandoc
-$ brew cask install mactex-no-gui
+$ brew cask install basictex
 $ gem install ffi-rzmq
 $ gem install iruby
 ```
