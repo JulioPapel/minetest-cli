@@ -53,25 +53,25 @@ Agora é uma boa altura para criar o repositório no GitHub. Este exemplo pode s
 
 1.  No canto superior direito em qualquer página, usa o <svg version="1.1" width="12" height="16" viewBox="0 0 12 16" class="octicon octicon-plus" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"></path></svg> do menu drop-down e sececciona **New repository**. 
 
-    ![Drop-down with option to create a new repository](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github0.png)
+    ![Drop-down with option to create a new repository](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github0.png?raw=true)
 
 2.  Digite um nome pequeno, fácil de memorizar para o repositório. por exemplo, "minetest-cli". 
 
-    ![Campo para inserir um nome de repositório](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github1.png)
+    ![Campo para inserir um nome de repositório](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github1.png?raw=true)
 
 3.  Escolhe se o repositório é publico ou privado. Repositórios privados requerem uma subscrição no Github.Para obter mais informações, consulta "[Configurar visibilidade do repositório](https://help.github.com/pt/articles/setting-repository-visibility)". 
 
-    ![Botões de opção para selecionar status privado ou público](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github2.png)
+    ![Botões de opção para selecionar status privado ou público](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github2.png?raw=true)
 
 5.  Não selecione **Initialize this repository with a README** (Inicializar este repositório com um LEIAME). 
 
-    ![Caixa de seleção para criar um LEIAME quando o repositório é criado](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github3.png)
+    ![Caixa de seleção para criar um LEIAME quando o repositório é criado](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github3.png?raw=true)
 
 6.  Clique em **Create Repository** (Criar repositório).
 
 7.  Copia o endereço do teu repositório.
     
-    ![Copiar o endereço do repositório ](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github4.png)
+    ![Copiar o endereço do repositório ](https://github.com/JulioPapel/minetest-cli/blob/master/docs/img/github4.png?raw=true)
     
     e no terminal usando o teu repositório executa: 
 
