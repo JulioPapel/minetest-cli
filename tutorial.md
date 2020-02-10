@@ -745,7 +745,7 @@ for you to implement, and do not forget the backup levels option ...
 
 Os comandos funcionam como esperado.
 
-## 11 - Implementar o comando remove. 
+## 11 - Implementar o comando remove. 
 vamos inserir o comando depois do comando backup, mas antes da palavra reservada ```private``` (daqui para baixo so devem haver metodos accessiveis apenas a esta classe)
    
 ```ruby
